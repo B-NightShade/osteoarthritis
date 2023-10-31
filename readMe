@@ -1,3 +1,4 @@
+dataset link: https://data.mendeley.com/datasets/56rmx5bjcr/1
 This project is Python and was run in Jupiter notebook
 
 This projects goal was to try to classify x-ray images and test how accurate it was compared ot trained x-ray techs
@@ -9,4 +10,4 @@ to me because it dealt with knee x-rays that we could feed into a nueral network
 the computer to be able to read them with any sort of accuracy.
 
 This course was my first time working with machine learning models. After learning more in my internship with Matrix I plan to come back to this project and see where I could
-make improvements in the models accuracyand percision.
+make improvements in the models accuracyand percision. I spent two weeks on this project and it was an individual final project.
